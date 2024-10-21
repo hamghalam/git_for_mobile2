@@ -2,3 +2,4 @@
 This is a test porject for learning git
 Mohammad Hamghalam
 Arman yeganeh
+farideh garoosy
