@@ -6,6 +6,6 @@ Sahar Inanlu <br/>
 Farideh Garoosy <br/>
 change for test new branch <br/>
 Alireza Mortezaei <br/>
-Zahra Rahimloo 2025 <br/>
+Zahra Rahimloo <br/>
 Nima Jlilvand <br/>
 mohammad mahdi
