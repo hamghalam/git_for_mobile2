@@ -8,8 +8,6 @@ change for test new branch <br />
 Alireza Mortezaei <br/>
 Zahra Rahimloo <br/>
 Nima Jlilvand <br/>
-mohammad mahdi ganjlia
-
-saleh yaghob khani
-
-sina
+mohammad mahdi ganjlia<br>
+saleh yaghob khani<br>
+sina<br>
